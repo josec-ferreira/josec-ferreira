@@ -10,3 +10,9 @@
 
 - Dominar a lógica de programação
 - Aprender mais sobre as linguagens de programação
+
+## Minha Experiência
+
+- Jovem Aprendiz Vale (2019 - 2021)
+  - Trabalhei como auxiliar administrativo realizando notas fiscais de entrada;
+- 
